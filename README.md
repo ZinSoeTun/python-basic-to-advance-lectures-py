@@ -2,10 +2,13 @@ This repo is for beginners who learn python learning looking codes or learning f
 
 To run the program,
 
- 1. Download the latest PYTHON in your computer
- 2. git clone the repo or download the zip file
- 3. Open the file in VS Code or Pycharm, etc...
- 4. Run the file from GUI or CLI
+ 1. Download the latest PYTHON in your computery
+       To download the Python -> https://www.python.org/downloads/
+       if you don't have "pip" Package after finished downloading prograss,
+       please visit to -> https://github.com/ZinSoeTun/python-menual-install-pip-package
+ 3. git clone the repo or download the zip file
+ 4. Open the file in VS Code or Pycharm, etc...
+ 5. Run the file from GUI or CLI
 
-I hope every beginner will get something . 
+I hope every beginner will get something from my repo. 
 Good Luck everyone...🥰🥰🥰🥰🥰🥰🥰🥰
