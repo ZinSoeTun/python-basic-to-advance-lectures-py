@@ -4,6 +4,7 @@ To run the program,
 
  1. Download the latest PYTHON in your computery.
        To download the Python. -> https://www.python.org/downloads/
+       if you don't know how to download , please visit to https://www.youtube.com/watch?v=6WrBOwTzXwg
        if you don't have "pip" Package after finished downloading prograss,
        please visit to -> https://github.com/ZinSoeTun/python-menual-install-pip-package
  3. git clone the repo or download the zip file
